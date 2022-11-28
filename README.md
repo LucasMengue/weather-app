@@ -41,6 +41,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 3. Extraia os arquivos do pacote ZIP;
 4. Abra o arquivo `index.html` em seu navegador para poder utilizar o projeto;
 
+:exclamation: Caso queira acessar o projeto final sem baixar em seu computador, também pode acessar através <a href="https://weather-app-lucasmengue.vercel.app/">deste link</a>.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
