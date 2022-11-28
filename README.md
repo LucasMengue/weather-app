@@ -1,27 +1,18 @@
-<img src="#" align="center"></img>
-
 <h1 align="center">Weather App</h1>
+
 <p align="center">Projeto desenvolvido utilizando HTML, CSS, Bootstrap, JavaScript ES6+ e AccuWeather API</p>
-<p align="center">
-  <a aria-label="HTML5 badge">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
-  </a>
-  <a aria-label="CSS3 badge">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
-  </a>
-  <a aria-label="JavaScript badge">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
-  </a>
-  <a aria-label="Bootstrap badge">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
-  </a>
-</p>
 
 <p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalacao-e-execução">Instalação e execução</a>
+  <a href="#hammer_and_wrench-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-execução-do-projeto">Execução do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
+
+## 💻 Projeto
+
+O Weather App é um projeto contruído com o intuito de aperfeiçoar os conhecimentos em JavaScript utilizando as melhores práticas e funcionalidades a partir da versão ES6+, e também usando a API da AccuWeather, onde é feito requisições para mostrar a temperatura de uma determinada cidade.
 
 ## 🚀 Tecnologias
 
@@ -36,9 +27,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <li>AccuWeather API</li>
 </ul>
 
-## 💻 Projeto
+## :hammer_and_wrench: Funcionalidades
 
-O Weather App é um projeto contruído com o intuito de aperfeiçoar os conhecimentos em JavaScript usando a API da AccWeather, onde é feito requisições para mostrar a temperatura de uma determinada cidade.
+<ul>
+  <li>Campo para buscar informações de uma determinada cidade</li>
+  <li>Card com as informações do clima da cidade, tanto temperatura, condições climáticas e se está manhã, tarde ou noite na região</li>
+</ul>
 
 ## :gear: Execução do projeto
 
